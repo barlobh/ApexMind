@@ -1,3 +1,7 @@
 streamlit
 pandas
 sqlite3-binary
+fastapi
+httpx
+uvicorn
+python-dotenv
